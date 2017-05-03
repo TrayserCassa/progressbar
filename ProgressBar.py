@@ -1,5 +1,4 @@
 import os
-from sys import stdout
 
 
 class Progressbar(object):
